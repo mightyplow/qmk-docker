@@ -1,4 +1,6 @@
 # QMK Toolbox Docker Image
+This is a docker image with the qmk toolbox inside. This image can be used to create a docker container for flashing
+a qmk compatible keyboard.
 
 ## Build Image
 This creates the Docker Image locally with the name *qmk*.
